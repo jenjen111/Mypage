@@ -1,0 +1,20 @@
+html, body, main {height: 100%; width: 100%;}
+.intro {
+    text-align: center; 
+    font-size: 30px; 
+    font-weight: bold;
+    padding: 20px;
+}
+#circle1 {
+    background-color:#86c5ef;
+    width:150px;
+    height:150px;
+    border-radius:75px;
+    text-align:center;
+    margin:0 auto;
+    font-size:20px;
+    font-weight: bold;
+    vertical-align:middle;
+    line-height:150px;
+    position: absolute;
+    }
